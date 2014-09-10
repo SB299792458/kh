@@ -1,0 +1,2 @@
+
+"jquery.qtip.css" file located in the folder "stylesheet".
